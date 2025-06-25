@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashg20
 - 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python and SQL
+- 🌱 I’m currently in my final year of Masters of Data Science
+- 💞️ I’m looking to collaborate on building ML models
 - 📫 How to reach me -> Email: yashg9220@gmail.com
 
 <!---
